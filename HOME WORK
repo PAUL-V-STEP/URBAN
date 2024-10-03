@@ -1,0 +1,8 @@
+#1st PROGRAMM
+print(9**0.5*5)
+#2nd PROGRAMM
+print(9.99 > 9.98 and 1000 != 1000.1)
+#3rdnd PROGRAMM
+print( (2*2+2) == 2*(2+2))
+#4th PROGRAMM
+print( (int(123.456*10)) % 10)
